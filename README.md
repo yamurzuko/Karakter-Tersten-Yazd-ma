@@ -1,4 +1,4 @@
-# Karakter-Tersten-Yazd-ma
+# KarakterTerstenYazdirma
 Algoritma
 Verilen string ifade içerisindeki karakterleri bir önceki karakter ile yer değiştiren console uygulamasını yazınız.
 
