@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/bin/Debug/net6.0/KarakterTerstenYazdirma
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/bin/Debug/net6.0/KarakterTerstenYazdirma.deps.json
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/bin/Debug/net6.0/KarakterTerstenYazdirma.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/bin/Debug/net6.0/KarakterTerstenYazdirma.dll
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/bin/Debug/net6.0/KarakterTerstenYazdirma.pdb
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.dll
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/refint/KarakterTerstenYazdirma.dll
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.pdb
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/KarakterTerstenYazdirma.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/KarakterTerstenYazdirma/obj/Debug/net6.0/ref/KarakterTerstenYazdirma.dll
